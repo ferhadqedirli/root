@@ -1,5 +1,6 @@
 package com.example.pms;
 
+import com.example.pms.enums.EnumProductType;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
